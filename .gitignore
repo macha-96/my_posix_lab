@@ -1,5 +1,6 @@
 github_repo_access_token.txt
 *.o
+.vscode
 
 file_io/lseek
 file_io/lseek_test

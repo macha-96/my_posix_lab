@@ -9,4 +9,4 @@ stat_test: 06-stat.c
 clean:
 	rm -r lseek lseek_test stat_test
 mkln_lseek:
-	ln -s lseek lseek_test
+	ln -s lseek_test lseek

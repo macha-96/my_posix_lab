@@ -22,6 +22,8 @@ typedef struct my_thread_pool {
     
     pthread_t *thread_list;
     size_t thread_num;
+
+    bool shutdown;
 }my_thread_pool_t;
 
 my_thread_pool_t *createThreadPool(size_t thread_num);
