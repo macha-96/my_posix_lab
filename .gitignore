@@ -23,3 +23,5 @@ process_create/mine_shell_v2
 multi_thread_lab/helloworld
 multi_thread_lab/MyThreadPool/*.o
 multi_thread_lab/MyThreadPool/test
+network/basic_server
+network/basic_client
